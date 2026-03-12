@@ -19,7 +19,7 @@ Across these projects, several data exploration and statistical techniques were 
 * Correlation and Feature Relationship Analysis
 * Pattern Identification in Data
 * Data Visualization (2D & 3D and  Dashboards)
-* 
+
 These techniques help in understanding the structure of the data and discovering meaningful insights before building machine learning models.
 
 ---
@@ -43,49 +43,17 @@ Dataset → Data Cleaning → Statistical Exploration → Exploratory Data Analy
 
 ---
 
-# Projects
-
-## 1. Google Playstore Data Analysis
-
-
----
-
-## 2. HR Analytics Data Analysis
-
-
----
-
-## 3. Kidney Disease Data Analysis
-
----
-
-## 4. Travel Dataset Analysis
-
-
----
-
-## 5. Student Performance Data Analysis
-
-
----
-
-## 6. Flight Price Data Analysis
-
-
----
-
-## 7. US Visa Data Analysis
-
----
-
-## 8. Heart Disease Data Analysis
-
-
----
-
-## 9. Insurance Data Analysis
-
----
+| Project | Domain |
+|--------|--------|
+| Google Playstore Data Analysis | App Data Analysis |
+| HR Analytics Data Analysis | Employee Analytics |
+| Kidney Disease Data Analysis | Healthcare |
+| Travel Dataset Analysis | Travel & Tourism |
+| Student Performance Data Analysis | Education |
+| Flight Price Data Analysis | Aviation |
+| US Visa Data Analysis | Immigration Data |
+| Heart Disease Data Analysis | Healthcare |
+| Insurance Data Analysis | Insurance Analytics 
 
 ## Skills Demonstrated
 
