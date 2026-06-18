@@ -28,6 +28,16 @@ All datasets used in these projects are sourced from Kaggle.
 
 ---
 
+## 📈 Portfolio Statistics
+
+- Total Projects: 9
+- Domains Covered: 8+
+- Visualizations Created: 500+
+- Datasets Analyzed: 9
+- Python Libraries Used: 8+
+ 
+-------
+
 # 📂 Repository Structure
 
 ```bash
