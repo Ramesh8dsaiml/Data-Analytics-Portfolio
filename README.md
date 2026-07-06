@@ -32,7 +32,7 @@ All datasets used in these projects are sourced from Kaggle.
 
 - Total Projects: 9
 - Domains Covered: 8+
-- Visualizations Created: 500+
+- Visualizations Created: 200+
 - Datasets Analyzed: 9
 - Python Libraries Used: 8+
  
