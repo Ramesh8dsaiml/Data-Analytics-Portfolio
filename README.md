@@ -11,6 +11,8 @@ Real-world Exploratory Data Analysis projects using Python, Statistics, and Data
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
+# Complete Work Flow system:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b6d35b8c-b8cf-4460-9bfa-e6912623f84c" />
 
 # 🚀 About This Repository
 
